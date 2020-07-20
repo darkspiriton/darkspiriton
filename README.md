@@ -5,12 +5,12 @@
 <a href="https://www.linkedin.com/in/morenodev/">
   <img align="left" alt="Sourav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-#<a href="#">
-#  <img align="left" alt="Sourav's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-#</a>
-#<a href="#">
-#  <img align="left" alt="Sourav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-#</a>
+<!--<a href="#">
+  <img align="left" alt="Sourav's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="#">
+  <img align="left" alt="Sourav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>-->
 <a href="https://www.reddit.com/user/darkspiritone">
   <img align="left" alt="Sourav's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
@@ -51,10 +51,10 @@ Hi, I'm Cesar Moreno, a passionate Full Stack Web Developer 🚀 from Peru. Besi
 ⭐️ From [darkspiriton](https://github.com/darkspiriton)
 
 
-#<a href="https://github.com/darkspiriton/#">
-#  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=darkspiriton&repo=#" />
-#</a>
+<!--<a href="https://github.com/darkspiriton/#">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=darkspiriton&repo=#" />
+</a>-->
 
-#<a href="https://github.com/darkspiriton/#">
-#  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=darkspiriton&repo=#" />
-#</a>
+<!--<a href="https://github.com/darkspiriton/#">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=darkspiriton&repo=#" />
+</a>-->

@@ -46,7 +46,7 @@ Hi, I'm Cesar Moreno, a passionate Full Stack Web Developer 🚀 from Peru. Besi
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-![Sourav's github stats](https://github-readme-stats.vercel.app/api?username=Souravpakhira&show_icons=true&hide_border=true)
+![Cesar's github stats](https://github-readme-stats.vercel.app/api?username=darkspiriton&show_icons=true&hide_border=true)
 
 ⭐️ From [darkspiriton](https://github.com/darkspiriton)
 
